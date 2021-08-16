@@ -1,0 +1,15 @@
+@charset "UTF-8";
+h2 {
+    color: #090908;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: center;
+    text-shadow: 0 0;
+}
+p {
+    line-height: 22pt;
+    font-size: 16px;
+    color: #777474;
+}
+h4 {
+    font-size: 12pt;
+}
